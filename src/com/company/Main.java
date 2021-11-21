@@ -1,6 +1,6 @@
 package com.company;
 
-
+////MAKSYM NOWOTNIAK s25396
 import java.util.Scanner;
 public class Main {
 
